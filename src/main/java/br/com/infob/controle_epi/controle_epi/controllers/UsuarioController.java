@@ -25,7 +25,7 @@ public class UsuarioController {
         return null;
     }
 
-    @PostMapping
+    @PostMapping("/login")
     public Usuario login(@RequestParam String email, @RequestParam String senha){
         Usuario u = new Usuario();
         u.setEmail(email);
