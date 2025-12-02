@@ -37,4 +37,6 @@ Link dos Slides: https://www.canva.com/design/DAG5s_UFz3w/a5n2XDo2cCusNwWY3efNCA
 
 Link da Documentação: https://docs.google.com/document/d/10D8wo-FWJ3pjdMKY1bM8jGgV7LAPd0jWou5OARbyHAg/edit?tab=t.0#heading=h.ekj11jz01vw8
 
-Link do Deploy: Não funcionou
+Link do Deploy: Não funcionou, portanto segue abaixo os links de referência utilizados em nosso trabalho:
+-Github da API utilizada: https://github.com/Rafael-Saldanha/Trabalho-em-grupo-04-11-.git
+-Flutterflow: https://app.flutterflow.io/project/teste-zzm9s5?tab=apiConfig
