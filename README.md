@@ -40,3 +40,5 @@ Link da Documentação: https://docs.google.com/document/d/10D8wo-FWJ3pjdMKY1bM8
 Link do Deploy: Não funcionou, portanto segue abaixo os links de referência utilizados em nosso trabalho:
 -Github da API utilizada: https://github.com/Rafael-Saldanha/Trabalho-em-grupo-04-11-.git
 -Flutterflow: https://app.flutterflow.io/project/teste-zzm9s5?tab=apiConfig
+
+- Web service do swagger antigo : https://controle-de-epi.onrender.com/controle_epi/controle_epi/swagger-ui/index.html#/
